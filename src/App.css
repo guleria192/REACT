@@ -1,0 +1,53 @@
+.App2{
+width: 60%;
+font-size: 30px;
+font-family: initial
+}
+
+
+.App1{
+  background-color: black;
+  height: 100vh;
+  color: beige;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input{
+  outline: none;
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid rgb(117, 113, 113);
+  width: 800px;
+  font-size: 20px;
+  margin: 10px;
+  color: antiquewhite;
+}
+
+
+.App3{
+  width: 60%;
+}
+.App4{
+  width: 60%;
+}
+.err{
+  color: red;
+}
+.done{
+  color: green;
+}
+
+.App5{
+  width: 60%;
+  /* border: 2px solid; */
+  margin: 50px;
+}
+
+button{
+  width: 150px;
+  height: 35px;
+ 
+}
